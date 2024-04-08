@@ -10,6 +10,10 @@
 #### 7. docker-compose exec php bash
 #### 8. composer install
 #### 9. .envの環境変数を変更
+#### 10. php artisan make:migration create_contacts_table
+#### 11. php artisan make:migration create_categories_table
+#### 12. php artisan migrate
+#### 13. php artisan db:seed
 
 ## 使用技術
 ####  nginx 1.21.1
