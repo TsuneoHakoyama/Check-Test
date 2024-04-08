@@ -1,0 +1,13 @@
+.confirm {
+    margin: 0 auto;
+    width: 80%;
+}
+
+.confirm-form__table {
+    margin: auto;
+    width: 70%;
+}
+
+th {
+    text-align: left;
+}
